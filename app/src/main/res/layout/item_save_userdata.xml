@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ COPYRIGHT (c) 2020 Maruti Suzuki India Limited
+  ~ All rights reserved
+  ~
+  ~ This software embodies materials and concepts which are
+  ~ confidential to Maruti Suzuki India Limited and is made available solely
+  ~ pursuant to the terms of a written license agreement with
+  ~ Maruti Suzuki India Limited.
+  ~
+  ~ Designed and Developed by HARMAN Connected Services.
+  -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/save_user_data_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Сохранить настройки"
+        android:textAllCaps="false"
+        android:textColor="@color/ic_launcher_background"
+        android:background="@drawable/rounded_corners_btn"
+        android:fontFamily="@font/gothic"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginHorizontal="40dp"/>
+</LinearLayout>

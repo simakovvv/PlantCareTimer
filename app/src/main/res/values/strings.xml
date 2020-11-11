@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlantCareTimer</string>
+    <string name="title_plants">Растения</string>
+    <string name="title_add_plant">Добавить</string>
+    <string name="title_notifications">Оповещения</string>
+    <string name="plants">Растения</string>
+
+    <string name="def_title">Title</string>
+</resources>
